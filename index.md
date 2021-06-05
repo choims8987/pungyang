@@ -14,7 +14,7 @@
 4. 수업시간
 
 ### 📖 풍양중학교홈페이지안내
-  [학교 홈페이지로 이동](http://www.ny-pungyang.ms.kr)  
+   [학교 홈페이지로 이동](http://www.ny-pungyang.ms.kr)  
 
 ### 📖 챗봇 Support or Contact
   - 풍양중학교 교육정보부 070-6084-6159  
