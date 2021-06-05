@@ -1,7 +1,7 @@
 ### 꿈과 도전 정신을 지닌 풍양중학교 
 ![풍양중등교](https://user-images.githubusercontent.com/80456991/120893219-101c3e80-c64d-11eb-8e63-3a2897952b45.PNG)  
 
-### 📖 풍양중학교 안내 챗봇 <span style="color:blue">풍양이</span>소개
+### 📖 풍양중학교 안내 챗봇 <span style="color:orange">풍양이</span>소개
 
 안녕! 나는 풍양중학교 안내 챗봇 풍양이야  
 학교에 대해 궁금한 것이 있으면 **새대화 시작하기** 버튼을 누르거나 **풍양아** 하고 불러줘  
