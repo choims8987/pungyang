@@ -1,5 +1,5 @@
 ## 꿈과 도전 정신을 지닌 풍양중학교 
-|
+ |  
 |:--:|
 <img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=200 height=200>|
 
