@@ -1,10 +1,8 @@
 ### 꿈과 도전 정신을 지닌 풍양중학교 
 ![풍양중등교](https://user-images.githubusercontent.com/80456991/120893219-101c3e80-c64d-11eb-8e63-3a2897952b45.PNG)  
 
-<img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=200 height=200>
-
 ### 📖 풍양이 소개
-<img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=50 height=50>  
+<img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=50 height=50>
 안녕! 나는 풍양중학교 안내 챗봇 풍양이야  
 우리 학교에 대해 궁금한 것이 있으면 **새대화 시작하기** 버튼을 누르거나  
 **풍양아** 하고 불러줘  
