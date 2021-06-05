@@ -17,6 +17,5 @@
 ### 🌸풍양중학교홈페이지
 학교 홈페이지로 이동(http://www.ny-pungyang.ms.kr)  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 🌸챗봇 Support or Contact
+풍양중학교 교육정보부 070-7684-6159
