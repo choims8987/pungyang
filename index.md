@@ -3,7 +3,7 @@
 
 ### 📖 풍양중학교 안내 챗봇 <span style="color:orange">풍양이</span>소개
 
-![풍양이](https://user-images.githubusercontent.com/80456991/120894866-891f9400-c655-11eb-9d7c-61ef335e32ec.png)안녕! 나는 풍양중학교 안내 챗봇 풍양이야  
+![풍양이](https://user-images.githubusercontent.com/80456991/120894937-cc7a0280-c655-11eb-8b2e-7989139b436a.png)안녕! 나는 풍양중학교 안내 챗봇 풍양이야  
 학교에 대해 궁금한 것이 있으면 **새대화 시작하기** 버튼을 누르거나 **풍양아** 하고 불러줘  
 
   
