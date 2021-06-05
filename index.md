@@ -1,6 +1,10 @@
 ## 꿈과 도전 정신을 지닌 풍양중학교 
 
 <img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=200 height=200>  
+# 풍양중학교에 오신것을 환영합니다.
+
+🏀안녕! 나는 풍양중학교 안내 챗봇 풍양이야
+
 You can use the [editor on GitHub](https://github.com/choims8987/pungyang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
