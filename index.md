@@ -16,12 +16,8 @@
 3. 학교규칙
 4. 수업시간
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/choims8987/pungyang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+### 풍양중학교홈페이지
+학교 홈페이지 안내(http://www.ny-pungyang.ms.kr)  
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
