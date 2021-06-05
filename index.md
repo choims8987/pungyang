@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 풍양중학교 안내 챗봇 풍양이
 
 You can use the [editor on GitHub](https://github.com/choims8987/pungyang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
