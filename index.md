@@ -1,7 +1,6 @@
 ## 꿈과 도전 정신을 지닌 풍양중학교 
- |  
-|:--:|
-<img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=200 height=200>|
+ 
+<img src="https://user-images.githubusercontent.com/80456991/120890550-7483d180-c63e-11eb-886f-3d4f0ab2c986.png" width=200 height=200 align=center>
 
 ### 📖 풍양이 소개
 안녕! 나는 풍양중학교 안내 챗봇 풍양이야  
